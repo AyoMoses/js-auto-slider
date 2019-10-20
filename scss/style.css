@@ -1,6 +1,12 @@
 body {
   margin: 0;
   background: #e6e6e6;
+  overflow-y: hidden;
+}
+
+img {
+  width: 100%;
+  max-width: 100%;
 }
 
 .showSlide {
